@@ -1,0 +1,23 @@
+
+ * {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    
+ }
+
+ .opcaoum {
+    background: #F5F5F5;
+    margin: 40px;
+    padding: 20px;
+ }
+
+ .opcaodois {
+    background: #F0CCE2;
+    margin: 40px;
+    padding: 20px;
+    
+ }
